@@ -40,7 +40,7 @@ GitHub (for version control and documentation)
 AmazonReviewAnalysis.xlsx — Contains the cleaned dataset, PivotTable analysis, charts, and summary dashboard
 
  Author
-Ellana Datahub
+Nwankwo Nathaniel
 Junior Data Analyst |
 Excel & Power BI Enthusiast 
 | E-commerce Analytics
