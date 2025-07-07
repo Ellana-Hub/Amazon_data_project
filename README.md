@@ -48,7 +48,7 @@ AmazonReviewAnalysis.xlsx — Contains the cleaned dataset, PivotTable analysis,
  
 Nwankwo Nathaniel
 
-Junior Data Analyst 
+ Data Analyst 
 
 Excel & Power BI Enthusiast
 
